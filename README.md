@@ -5,7 +5,7 @@
 
 ---
 
-<h3 align="center">I am a student at Lovely Professional University looking to land a Job in the Computer Science field where I can use the technical and programming knowledge for the growth of the organization. I'm highly analytical, diligent person. 🚀</h3>
+<h4 align="left">I am a student at Lovely Professional University looking to land a Job in the Computer Science field where I can use the technical and programming knowledge for the growth of the organization. I'm highly analytical, diligent person. 🚀</h4>
 
 ---
 

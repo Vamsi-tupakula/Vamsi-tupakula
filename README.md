@@ -8,3 +8,9 @@
 <h3 align="center">I am a student at Lovely Professional University looking to land a Job in the Computer Science field where I can use the technical and programming knowledge for the growth of the organization. I'm highly analytical, diligent person. 🚀</h3>
 
 ---
+
+- 🌱 I’m currently learning **React JS, Data Science, DSA with Java**
+
+- 📝 I regularly write articles on [https://dev.to/vamsitupakula_](https://dev.to/vamsitupakula_)
+
+- 📫 How to reach me **vamsitupakula474@gmail.com**

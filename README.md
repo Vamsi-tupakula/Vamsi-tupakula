@@ -13,7 +13,7 @@
 
 ---
 
-- 🌱 I’m currently learning **React JS, Data Science, DSA with Java**
+- 🌱 Currently Hacking on **Data Science and Machine Learning && DSA with Java**
 
 - 📝 I regularly write articles on [https://dev.to/vamsitupakula_](https://dev.to/vamsitupakula_)
 

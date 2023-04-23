@@ -13,7 +13,7 @@
 
 ---
 
-- 🌱 Currently Hacking on **Data Science and Machine Learning && DSA with Java**
+- 🌱 Currently Hacking on **Full stack web devlopment && DSA with Java**
 
 - 📝 I regularly write articles on [https://dev.to/vamsitupakula_](https://dev.to/vamsitupakula_)
 
